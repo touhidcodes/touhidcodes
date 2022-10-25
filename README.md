@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web devolopment
 - 💞️ I’m looking to collaborate on my new project
 - 📫 How to reach me 
-- touhidcodes@gmail.com
+- mail.touhidcodes@gmail.com
 
 <!---
 touhidcodes/touhidcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
