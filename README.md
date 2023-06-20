@@ -7,7 +7,7 @@
 - mail.touhidcodes@gmail.com
 
 ## 🌐 FOLLOW ME ON SOCIALS:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/touhidur-zaman) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/touhidur-zaman) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mhrinkue) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/22104988) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/mh_rinkue) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/touhidcodes#9825) 
 
 <br/>
 
@@ -43,16 +43,12 @@
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=touhidcodes&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=touhidcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 touhidcodes/touhidcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
