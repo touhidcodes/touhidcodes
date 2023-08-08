@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="./banner/touhidcodes_banner.png" alt="Hello world">
 
 <br/>
 
