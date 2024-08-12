@@ -18,15 +18,31 @@
 - 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **GraphQL, Docker and AWS**
+- 🛠️ I’m currently learning **GraphQL, Docker and AWS**.
+- 💬 Ask me about **MERN / Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My Resume **[Download](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
-- 💬 Ask me about **MERN / Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
 - 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
   
 <br/>
 
 <!--- socials --->
   ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ0Y3JidTJnZTJkNW1qejlxYTd2M3p1N3BlaHdmMzFyZmVqNmQyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pJjKzRqY9HwME/giphy.gif" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/touhidur-zaman">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30"/>
+  </a>
+  <a href="https://stackoverflow.com/users/22104988">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" width="30"/>
+  </a>
+  <a href="https://discord.gg/touhidcodes#9825">
+    <img src="https://skillicons.dev/icons?i=discord" height="30" width="30/>
+  </a>
+       <a href="https://twitter.com/mh_rinkue">
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" width="30/>
+  </a>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/touhidur-zaman) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mhrinkue) 
