@@ -15,11 +15,14 @@
 <br/>
 
 <!--- about --->
+<img align="right" alt="Coding" width="400" src="https://lottie.host/embed/adfae628-2c8e-4994-9c33-b8920cf1d3a3/TO1vqHfaf2.json">
+
 - 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
-- 🔭 I’m currently working on **React, React Native, Nodejs, Express.js, MongoDB**
-- 🌱 I’m currently learning **Next.js, Mongoose**
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
+- 🛠️ I’m currently learning **GraphQL, Docker and AWS**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
-- 💬 Ask me about **MERN (React, React-native, Nodejs, Express.js, MongoDB)**
+- 💬 Ask me about **MERN / Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
 - 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
   
 <br/>
