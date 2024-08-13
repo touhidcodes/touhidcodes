@@ -49,12 +49,10 @@
 <br/>
 
 <!--- technology --->
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> TECHNOLOGY STACK:</b>
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,firebase,bootstrap,mongodb,figma,git,expressjs,nodejs)](https://touhidcodes.vercel.app/)
-
-
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://touhidcodes.vercel.app/)
 
 ### Frameworks, Platforms & Libraries:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
