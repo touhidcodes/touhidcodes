@@ -18,7 +18,7 @@
 - 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **GraphQL, Docker and AWS**.
+- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
 - 💬 Ask me about **MERN / Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My Resume **[Download](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
@@ -27,28 +27,24 @@
 <br/>
 
 <!--- socials --->
-  ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ0Y3JidTJnZTJkNW1qejlxYTd2M3p1N3BlaHdmMzFyZmVqNmQyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pJjKzRqY9HwME/giphy.gif" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+  ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/touhidur-zaman">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30"/>
-  </a>
-  <a href="https://stackoverflow.com/users/22104988">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" width="30"/>
-  </a>
-  <a href="https://discord.gg/touhidcodes#9825">
-    <img src="https://skillicons.dev/icons?i=discord" height="30" width="30/>
-  </a>
-       <a href="https://twitter.com/mh_rinkue">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30" width="30/>
-  </a>
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/touhidur-zaman) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mhrinkue) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/22104988) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/mh_rinkue) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/touhidcodes#9825) 
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/touhidur-zaman">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/22104988">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" width="30"/>
+    </a>&nbsp;&nbsp;
+     <a href="https://discord.gg/touhidcodes#9825">
+      <img src="https://skillicons.dev/icons?i=discord" height="30" width="30"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/mh_rinkue">
+      <img src="https://skillicons.dev/icons?i=twitter" height="30" width="30"/>
+    </a>&nbsp;&nbsp;
+  </p>
+</div>
 
 <br/>
 
@@ -56,9 +52,8 @@
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,firebase,bootstrap,mongodb,figma,git,expressjs,nodejs)](https://touhidcodes.vercel.app/)
+
 
 
 ### Frameworks, Platforms & Libraries:
@@ -98,7 +93,7 @@
 <br/>
 
 <!--- statisyics --->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GITHUB STATISTICS & ANALYSIS:</b>
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Statistics:
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
