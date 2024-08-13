@@ -27,22 +27,22 @@
 <br/>
 
 <!--- socials --->
-  ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/touhidur-zaman">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30"/>
-    </a>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>&nbsp;
     <a href="https://stackoverflow.com/users/22104988">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" width="30"/>
-    </a>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=stackoverflow"/>
+    </a>&nbsp;
      <a href="https://discord.gg/touhidcodes#9825">
-      <img src="https://skillicons.dev/icons?i=discord" height="30" width="30"/>
-    </a>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=discord"/>
+    </a>&nbsp;
     <a href="https://twitter.com/mh_rinkue">
-      <img src="https://skillicons.dev/icons?i=twitter" height="30" width="30"/>
-    </a>&nbsp;&nbsp;
+      <img src="https://skillicons.dev/icons?i=twitter"/>
+    </a>
   </p>
 </div>
 
@@ -52,45 +52,29 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://touhidcodes.vercel.app/)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql)](https://touhidcodes.vercel.app/)
 
-### Frameworks, Platforms & Libraries:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![React.JS](https://img.shields.io/badge/react.js-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://touhidcodes.vercel.app/)
 
-### Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://touhidcodes.vercel.app/)
 
-### Hosting/SaaS:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase)](https://touhidcodes.vercel.app/)
 
-### Design:
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://touhidcodes.vercel.app/)
 
-### Tools:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Chrome Dev Tool](https://img.shields.io/badge/chrome%20dev%20tool-%23FF9A00.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) 
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://touhidcodes.vercel.app/)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://touhidcodes.vercel.app/)
 
 <br/>
 
-<!--- statisyics --->
+<!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Statistics:
@@ -103,11 +87,13 @@
 
 <br/>
 
-<!--- quote --->
-## ✍️ RANDOM DEV QUOTE:
+<!--- random quote --->
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
+
+<!--- visit count --->
 [![](https://visitcount.itsvg.in/api?id=touhidcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--- title --->
