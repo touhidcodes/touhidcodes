@@ -82,7 +82,7 @@
 | ------------- | ------------- |
 
 ### Top Contributed Repository:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=touhidcodes&theme=swift&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
 | ------------- | ------------- |
 
 <br/>
