@@ -19,7 +19,7 @@
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
 - 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
-- 💬 Ask me about **MERN / Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My Resume **[Download](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
 - 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
@@ -77,11 +77,15 @@
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+
 ### GitHub Statistics:
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
-### Top Contributed Repository:
+### Repository Stats & Streak:
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
 | ------------- | ------------- |
 
