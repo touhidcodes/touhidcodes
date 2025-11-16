@@ -31,18 +31,10 @@
 
 <div>
   <p align="left">
-    <a href="https://www.linkedin.com/in/touhidur-zaman">
-      <img src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>&nbsp;
-    <a href="https://stackoverflow.com/users/22104988">
-      <img src="https://skillicons.dev/icons?i=stackoverflow"/>
-    </a>&nbsp;
-     <a href="https://discord.gg/touhidcodes#9825">
-      <img src="https://skillicons.dev/icons?i=discord"/>
-    </a>&nbsp;
-    <a href="https://twitter.com/mh_rinkue">
-      <img src="https://skillicons.dev/icons?i=twitter"/>
-    </a>
+    <a href="https://linkedin.com/in/touhidur-zaman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+    <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+    <a href="https://dev.to/touhidcodes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
   </p>
 </div>
 
@@ -52,25 +44,25 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql)](https://touhidcodes.vercel.app/)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/touhidcodes)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://touhidcodes.vercel.app/)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/touhidcodes)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://touhidcodes.vercel.app/)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/touhidcodes)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase)](https://touhidcodes.vercel.app/)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/touhidcodes)
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://touhidcodes.vercel.app/)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
 
 ### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://touhidcodes.vercel.app/)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/touhidcodes)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://touhidcodes.vercel.app/)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
 
 <br/>
 
@@ -98,7 +90,5 @@
 ---
 
 <!--- visit count --->
-[![](https://visitcount.itsvg.in/api?id=touhidcodes&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--- title --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
 
